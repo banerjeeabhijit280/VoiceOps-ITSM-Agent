@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 🎙️ VoiceOps ITSM Intelligence Agent
 
@@ -361,4 +361,3 @@ This project is open source and available under the [MIT License](LICENSE).
 *Empowering IT support engineers with voice-first, AI-driven intelligence — fully local, fully private.*
 
 </div>
-]]>
